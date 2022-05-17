@@ -39,6 +39,7 @@ dependencies:
   firebase_auth: ^3.3.18
   cloud_firestore: ^3.1.15
   flutter_svg: ^1.0.3
+  flutter_keyboard_visibility: ^5.2.0
 
 dev_dependencies:
   flutter_test:
